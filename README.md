@@ -24,7 +24,7 @@ We define a difficulty scale for each item which reads like this:
 - Table editing: ★☆☆☆☆ [FC] | [Tool](https://github.com/Kaplas80/TranslationFramework2)
 - Font Creation: ★★☆☆☆ [FC, SC, 3rd] |[Tool](https://github.com/ZhenjianYang/SoraTranslation-Tools)
 - BGM/OST extraction: ☆☆☆☆☆ [FC, SC, 3rd] | BGM folder contains all music files
-- Replace BGM: ★☆☆☆☆ [FC, SC, 3rd] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)
+- Replace BGM: ★☆☆☆☆ [FC, SC, 3rd] | [Guide](tutorials/Extract-and-replace-BGM.md)
 
 ### Crossbell series
 - Scena/Animation Scripts editing: ★★☆☆☆ [Zero, Azure] | [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit), [Tool](https://github.com/AGraber/EDDecompiler), [alternative tool](https://github.com/Kyuuhachi/Aureole)
@@ -38,12 +38,12 @@ We define a difficulty scale for each item which reads like this:
 - Scena/Animation Scripts editing: ★★★☆☆ [CS, CS2] ★★☆☆☆ [CS3, CS4, Reverie] | [CS1, CS2](https://github.com/TwnKey/SenScriptsDecompiler), [CS3](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83), [CS4](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84), [Reverie](https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85) | [SenScripts Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit?usp=sharing)
 - Texture injection/extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Guide](https://forums.dolphin-emu.org/Thread-custom-texture-tool-ps-v50-1?pid=482262#pid482262)
 - Model extraction: ★★☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/uyjulian/ed8pkg2glb)
-- Model injection: ★★★★★ [CS3, CS4, Reverie] | [Tool (Maya)](https://github.com/Trails-Research-Group/Doc/releases/tag/v0.0) [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Import-custom-models-to-Cold-Steel-IV), [Tool (Blender, etc)](https://github.com/eArmada8/ed8pkg2gltf/releases)
+- Model injection: ★★★★★ [CS3, CS4, Reverie] | [Tool (Maya)](https://github.com/Trails-Research-Group/Doc/releases/tag/v0.0), [Guide](tutorials/Import-custom-models-to-Cold-Steel-IV.md), [Tool (Blender, etc)](https://github.com/eArmada8/ed8pkg2gltf/releases)
 - Table editing: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://git.sr.ht/~quf/tocs/tree/trunk/tbled/README.md) [Documentation](https://github.com/nnguyen259/SenSchema/wiki)
 - Effect editing: ★★★★★ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/uyjulian/ed8_eff_tools)
 - Font Creation: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | [Tool](https://github.com/TwnKey/FalcomFontCreator)
 - BGM/OST extraction: ☆☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/bgm folder contains all music files
-- Replace BGM: ★☆☆☆☆ [CS3] | [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Extract-and-replace-BGM)
+- Replace BGM: ★☆☆☆☆ [CS3] | [Guide](tutorials/Extract-and-replace-BGM)
 - Voice extraction: ★☆☆☆☆ [CS, CS2, CS3, CS4, Reverie] | data/voice folder contains all voice lines, but finding a specific one requires some effort
 
 ### Calvard series
@@ -51,7 +51,7 @@ We define a difficulty scale for each item which reads like this:
 - Table editing: ★★☆☆☆ [Kuro]| [Tool](https://github.com/nnguyen259/KuroTools) [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)
 - Texture injection/extraction: ☆☆☆☆☆ [Kuro]
 - Model extraction: ★☆☆☆☆ [Kuro] | [Exe](https://github.com/nnguyen259/KuroTools) [Python (uyjulian)](https://gist.github.com/uyjulian/9a9d6395682dac55d113b503b1172009) [Python (eArmada8)](https://github.com/eArmada8/kuro_mdl_tool)
-- Model injection: ★★☆☆☆ [Kuro] ([Exe](https://github.com/nnguyen259/KuroTools), [Guide](https://github.com/Trails-Research-Group/Doc/wiki/How-to:-Import-custom-models-to-Kuro-no-Kiseki)) [Python](https://github.com/eArmada8/kuro_mdl_tool)
+- Model injection: ★★☆☆☆ [Kuro] ([Exe](https://github.com/nnguyen259/KuroTools), [Guide](tutorials/Import-custom-models-to-Kuro-no-Kiseki.md)) [Python](https://github.com/eArmada8/kuro_mdl_tool)
 - Font Creation: ★★★☆☆ [Kuro] | [Tool](https://github.com/TwnKey/ED9FontConverter)
 
 ## Places we recommend checking out
