@@ -3,6 +3,7 @@
 - [Mod list](Released-Mods.md)
 - [Tutorials](tutorials)
 - [Showcases](Mod-Showcases.md)
+- [Cold Steel/Reverie documentation](cold-steel)
 
 ## What is currently doable
 We define a difficulty scale for each item which reads like this:
