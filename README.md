@@ -1,7 +1,8 @@
 # Documentation for modding the Trails/Kiseki series
 
 - [Mod list](Released-Mods.md)
-- [Tutorials](https://github.com/Trails-Research-Group/Doc/wiki)
+- [Tutorials](tutorials)
+- [Showcases](Mod-Showcases.md)
 
 ## What is currently doable
 We define a difficulty scale for each item which reads like this:
