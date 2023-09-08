@@ -56,7 +56,7 @@ We define a difficulty scale for each item which reads like this:
   - [Crossbell] https://github.com/AGraber/EDDecompiler, [Guide](https://docs.google.com/document/d/1Nflb-dBPLLl0yWwk3MJTo0UxNyRPZDgy5zPanSrtotM/edit)
   - [CS3] https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83
   - [CS4] https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84
-  - [Reverie] https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84
+  - [Reverie] https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85
   - [Cold Steel, Reverie] https://github.com/TwnKey/SenScriptsDecompiler, [Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit)
   - [Kuro] https://github.com/nnguyen259/KuroTools, [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit?usp=sharing)
 - Animation scripts
@@ -65,13 +65,19 @@ We define a difficulty scale for each item which reads like this:
   - [Crossbell] https://github.com/AGraber/EDDecompiler
   - [CS3] https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED83
   - [CS4] https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84
-  - [Reverie] https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED84
+  - [Reverie] https://github.com/Ouroboros/Falcom/tree/master/Decompiler2/Falcom/ED85
   - [Cold Steel, Reverie] https://github.com/TwnKey/SenScriptsDecompiler, [Guide](https://docs.google.com/document/d/1YVjFSkPsj9M0UgsI6_de4TSz35MeL_rGuhSQDtRTXxw/edit)
 - Monster/AI scripts
   - [3rd] https://github.com/akatatsu27/Falcom_Data_Formats/releases/tag/release
   - [Crossbell] Unknown
   - [Cold Steel, Reverie] https://github.com/TwnKey/SenScriptsDecompiler
   - [Kuro] https://github.com/nnguyen259/KuroTools, [Guide](https://docs.google.com/document/d/1ofetrdRn3BY8GIqfnzWrutw9MnyNEfLYZ6NOgxZzg8A/edit)
+- Archive/Container/pkg/pka
+  - [Sky, Crossbell] [Factoria](https://github.com/Kyuuhachi/Aureole)
+  - [Cold Steel, Reverie] [pkgtool](https://git.sr.ht/~quf/tocs/tree/trunk/pkgtool/README.md) (pkg/pka read/write)
+  - [Cold Steel, Reverie] https://github.com/uyjulian/unpackpkg, https://github.com/uyjulian/unpackpka
+  - [CS3, CS4, Reverie] https://github.com/eArmada8/ed8pkg2gltf (model tool, includes pkg read/write)
+  - [CS3, CS4, Reverie] https://github.com/uyjulian/ed8pkg2glb (model tool, includes pkg read)
 - BGM
   - Extraction doesn't require tools
   - [Sky, Crossbell, Cold Steel, Reverie] [BGM Insertion guide](tutorials/Extract-and-replace-BGM.md)
