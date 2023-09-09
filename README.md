@@ -38,6 +38,7 @@ We define a difficulty scale for each item which reads like this:
   - [Sky] https://github.com/Kaplas80/TranslationFramework2
   - [Crossbell] Unknown
   - [Cold Steel, Reverie] https://git.sr.ht/~quf/tocs/tree/trunk/tbled/README.md
+  - [CS3, CS4, Reverie] [conflict resolver for mods distributed in DLC format](https://github.com/eArmada8/misc_kiseki/blob/main/dlc_tables/dlc_conflict_resolver.py)
   - [CS3] https://github.com/nnguyen259/ColdSteel3Tools
   - [Kuro] [KuroTools](https://github.com/nnguyen259/KuroTools), [Guide](https://docs.google.com/document/d/19ajbTZzda54i5xZWDLXOq0oOVQrhJYXU9rmgz3Ya3Bc/edit#heading=h.805f9xdpyhea)
 - Fonts
