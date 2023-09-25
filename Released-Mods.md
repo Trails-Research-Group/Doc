@@ -71,8 +71,9 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 ## Trails into the Reverie (NISA PC version)
 
 - Costume mod by ProbablyNotAZebra: Outfit for Rixia and Wazy based on earlier games. Download via the modding discord.
-- [Randomizer by hell259](https://github.com/nnguyen259/ReverieRandomizer): Crafts and Brave Orders
+- [Randomizer by hell259](https://github.com/nnguyen259/ReverieRandomizer): Arts, Crafts, Brave Orders, Master Quartzes, items, etc.
 - [Altina costume for Tio by Kernviter](https://www.dropbox.com/sh/8gv9j6ms5guh8wi/AABGkZxTs1AS6XmvtxrH0wUEa)
+- Restoration mod by My Name: Various outfits/models/crafts from other games, plus some original crafts and various gameplay changes. Download via the modding discord.
 
 ## Other games
 
