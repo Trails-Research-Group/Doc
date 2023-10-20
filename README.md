@@ -75,6 +75,7 @@ We define a difficulty scale for each item which reads like this:
   - [Kuro] https://github.com/nnguyen259/KuroTools, [Guide](https://docs.google.com/document/d/1ofetrdRn3BY8GIqfnzWrutw9MnyNEfLYZ6NOgxZzg8A/edit)
 - Archive/Container/pkg/pka
   - [Sky, Crossbell] [Factoria](https://github.com/Kyuuhachi/Aureole)
+  - [Sky, Crossbell] [unpacker for yamaneko PSP iso and cclm](https://gist.github.com/uyjulian/b596c978da0c1031047e124eaf5d4f84)
   - [Cold Steel, Reverie] [pkgtool](https://git.sr.ht/~quf/tocs/tree/trunk/pkgtool/README.md) (pkg/pka read/write)
   - [Cold Steel, Reverie] https://github.com/uyjulian/unpackpkg, https://github.com/uyjulian/unpackpka
   - [CS3, CS4, Reverie] https://github.com/eArmada8/ed8pkg2gltf (model tool, includes pkg read/write)
