@@ -43,6 +43,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Randomizer by hell259](https://github.com/nnguyen259/ColdSteelRandomizer): Randomizer for stats, crafts, chest contents, orbment layouts.
 - [Menu edits mod by EnDavio](https://steamcommunity.com/app/538680/discussions/0/3115920924819767678/): Various text fixes and improvements.
 - Evolution Boss mod by NZerker12: Adds various playable characters and abilities, plus a few miscellaneous changes. Download via the modding discord.
+- [ed8 music randomizer by eArmada8](https://github.com/eArmada8/misc_kiseki/tree/main/random_music)
 
 ## Trails of Cold Steel II (XSeed PC version)
 
@@ -50,6 +51,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [HD textures by Bighead](https://steamcommunity.com/app/748490/discussions/0/2860219962081641200/)
 - [Difficulty mod by Bison](https://steamcommunity.com/app/748490/discussions/0/1696045708664951845/)
 - [Female Rean mod by StargazingSketcher](https://www.reddit.com/r/Falcom/comments/qh5mek/the_updated_shenanigans_of_female_rean_mod/)
+- [ed8 random music mod by eArmada8](https://github.com/eArmada8/misc_kiseki/tree/main/random_music)
 
 ## Trails of Cold Steel III (NISA PC version)
 
@@ -59,6 +61,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Friendly fire mod by Hüllenoperator](https://git.sr.ht/~quf/cs3ffm)
 - [no cutscene kiseki](https://git.sr.ht/~quf/no-cutscene-kiseki): automatically skip cutscenes
 - Restoration mod by My Name: Costumes from other games. Optional: crafts, lost arts from previous games, difficulty balance changes. Download via the modding discord.
+- [ed8 music randomizer  by eArmada8](https://github.com/eArmada8/misc_kiseki/tree/main/random_music)
 
 ## Trails of Cold Steel IV (NISA PC version)
 
@@ -67,6 +70,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - Evolution mod by anonymous: Makes various characters playable, adds crafts, various other changes. Download via the modding discord
 - Costume restoration mod by My Name: Various outfits from CS1/2, Reverie, and Tokyo Xanadu, plus a few other cosmetic changes. Download via the modding discord.
 - Costume mod by ProbablyNotAZebra: Outfit for Sara based on her CS1 outfit. Download via the modding discord.
+- [ed8 music randomizer by eArmada8](https://github.com/eArmada8/misc_kiseki/tree/main/random_music)
 
 ## Trails into the Reverie (NISA PC version)
 
@@ -74,6 +78,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Randomizer by hell259](https://github.com/nnguyen259/ReverieRandomizer): Arts, Crafts, Brave Orders, Master Quartzes, items, etc.
 - [Altina costume for Tio by Kernviter](https://www.dropbox.com/sh/8gv9j6ms5guh8wi/AABGkZxTs1AS6XmvtxrH0wUEa)
 - Restoration mod by My Name: Various outfits/models/crafts from other games, plus some original crafts and various gameplay changes. Download via the modding discord.
+- [ed8 music randomizer  by eArmada8](https://github.com/eArmada8/misc_kiseki/tree/main/random_music)
 
 ## Other games
 
