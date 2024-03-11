@@ -44,7 +44,7 @@
 "42","","","","","","","","","",""
 "43","","","","","","","","","",""
 "44","","","","","","","","","",""
-"45","unknown_effect_1","Unknown effect, used by a whole lot of items and arts/crafts","","","","","","","",""
+"45","check_condition","Add additional effects from the condition table in the same file","","","","","","","",""
 "46","","","","","","","","","",""
 "47","","","","","","","","","",""
 "48","","","","","","","","","",""
