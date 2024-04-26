@@ -10,12 +10,14 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [SoraVoice by ZhenjianYang](https://github.com/ZhenjianYang/SoraVoice): Adds Japanese voice acting from the Evolution version.
 - [HD textures by TwnKey](https://github.com/TwnKey/FC_HD)
 - [Trails of Josette by akatatsu27](https://github.com/akatatsu27/TrailsOfJosette): Josette
+- [InstantKiseki by Kyuuhachi](https://github.com/Kyuuhachi/InstantKiseki): Display text instantly instead of one character at a time
 
 ## Trails in the Sky SC (XSeed PC version)
 
 - [SoraVoice by ZhenjianYang](https://github.com/ZhenjianYang/SoraVoice): Adds Japanese voice acting from the Evolution version.
 - [Josette rebalance mod by Hopyoprop](https://www.reddit.com/r/Falcom/comments/qtgh3z/mod_josette_rebalance_other_small_things/): Makes Josette less terrible in combat plus other changes.
 - [Trails of Gilbert Second Chapter by akatatsu27](https://github.com/akatatsu27/TrailsOfGilbertSC): Gilbert
+- [InstantKiseki by Kyuuhachi](https://github.com/Kyuuhachi/InstantKiseki): Display text instantly instead of one character at a time
 
 
 ## Trails in the Sky the 3rd (XSeed PC version)
@@ -23,6 +25,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [SoraVoice by ZhenjianYang](https://github.com/ZhenjianYang/SoraVoice): Adds Japanese voice acting from the Evolution version.
 - [Josette rebalance mod by Hopyoprop](https://www.reddit.com/r/Falcom/comments/qtgh3z/mod_josette_rebalance_other_small_things/): Makes Josette less terrible in combat plus other changes.
 - [Trails of Gilbert the 3rd by akatatsu27](https://github.com/akatatsu27/TrailsOfGilbertThe3rd): Gilbert
+- [InstantKiseki by Kyuuhachi](https://github.com/Kyuuhachi/InstantKiseki): Display text instantly instead of one character at a time
 
 ## Trails from Zero (NISA PC version)
 
