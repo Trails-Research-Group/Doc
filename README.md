@@ -86,6 +86,9 @@ We define a difficulty scale for each item which reads like this:
   - [Crossbell, CS1, CS2] [loop metadata editor](https://git.sr.ht/~quf/trails-ost-tool)
 - Voice
   - [Crossbell, Cold Steel, Reverie] Extraction doesn't require tools
+- Other
+  - [Sky] [LB-Ark](https://github.com/Aureole-Suite/LB-ARK) (load modded files from the file system without updating an archive; load dll plugins)
+  - [Cold Steel, Reverie] [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) (load modded files from filesystem or .p3a archives)
 
 
 ## Places we recommend checking out
