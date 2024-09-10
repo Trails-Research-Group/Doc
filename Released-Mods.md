@@ -1,7 +1,8 @@
 # Released Mods
 
 This is a collection of mods that we know about.
-We are not involved with all of these, so please direct any questions about the mods to their respective authors.
+We are not involved with most of these and make no claims about any mod's completion status or quality.
+Please direct any questions about the mods to their respective authors.
 If your mod is missing from this list, feel free to [file an issue](https://github.com/Trails-Research-Group/Doc/issues) or make a pull request.
 
 ## Trails in the Sky (XSeed PC version)
@@ -11,6 +12,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [HD textures by TwnKey](https://github.com/TwnKey/FC_HD)
 - [Trails of Josette by akatatsu27](https://github.com/akatatsu27/TrailsOfJosette): Josette
 - [InstantKiseki by Kyuuhachi](https://github.com/Kyuuhachi/InstantKiseki): Display text instantly instead of one character at a time
+- [Japanese Text by 누구야](https://modding.tistory.com/28)
 
 ## Trails in the Sky SC (XSeed PC version)
 
@@ -18,6 +20,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Josette rebalance mod by Hopyoprop](https://www.reddit.com/r/Falcom/comments/qtgh3z/mod_josette_rebalance_other_small_things/): Makes Josette less terrible in combat plus other changes.
 - [Trails of Gilbert Second Chapter by akatatsu27](https://github.com/akatatsu27/TrailsOfGilbertSC): Gilbert
 - [InstantKiseki by Kyuuhachi](https://github.com/Kyuuhachi/InstantKiseki): Display text instantly instead of one character at a time
+- [Japanese Text by 누구야](https://modding.tistory.com/50)
 
 
 ## Trails in the Sky the 3rd (XSeed PC version)
@@ -26,17 +29,20 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Josette rebalance mod by Hopyoprop](https://www.reddit.com/r/Falcom/comments/qtgh3z/mod_josette_rebalance_other_small_things/): Makes Josette less terrible in combat plus other changes.
 - [Trails of Gilbert the 3rd by akatatsu27](https://github.com/akatatsu27/TrailsOfGilbertThe3rd): Gilbert
 - [InstantKiseki by Kyuuhachi](https://github.com/Kyuuhachi/InstantKiseki): Display text instantly instead of one character at a time
+- [Japanese Text by 누구야](https://modding.tistory.com/55)
 
 ## Trails from Zero (NISA PC version)
 
 - [Additional portraits mod by ShinKiseki](https://github.com/shinkiseki/MorePortraitsInZero).
 - [Difficulty mod by SoftBrilliant](https://www.reddit.com/r/Falcom/comments/y55sx6/trails_from_zero_difficulty_mod_official_rerelease/)
 - [Inevitable Zero by Kyuuhachi](https://github.com/Kyuuhachi/Inevitable-Zero). Ports over additional quests from the Evolution ports.
+- [Evolution Soundtrack bgm by BrichanFiana](https://www.nexusmods.com/tlohtrailsfromzero/mods/1)
 
 ## Trails to Azure (NISA PC version)
 
 - [Azure Vitality by Kyuuhachi](https://github.com/Kyuuhachi/Azure-Vitality). Ports over additional quests from the Evolution ports.
 - [Additional portraits mod by ShinKiseki](https://github.com/shinkiseki/MorePortraitsInAzure).
+- [Evolution Soundtrack bgm by BrichanFiana](https://www.nexusmods.com/tlohtrailstoazure/mods/1)
 
 ## Trails of Cold Steel (XSeed PC version)
 
@@ -82,6 +88,13 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Altina costume for Tio by Kernviter](https://www.dropbox.com/sh/8gv9j6ms5guh8wi/AABGkZxTs1AS6XmvtxrH0wUEa)
 - Restoration mod by My Name: Various outfits/models/crafts from other games, plus some original crafts and various gameplay changes. Download via the modding discord.
 - [ed8 music randomizer  by eArmada8](https://github.com/eArmada8/misc_kiseki/tree/main/random_music)
+
+## Trails through Daybreak (NISA PC version)
+
+- [Shizuna Spirit Unification mod by punk7890](https://drive.google.com/file/d/1_coXU89MmnUMpTdL2uROWYraCIoyYQRc/view)
+- Van's Grendel Skill by punk7890. Download via the modding discord.
+- [Daybreak 2 outfits for Fie by Kernviter](https://drive.google.com/file/d/1_coXU89MmnUMpTdL2uROWYraCIoyYQRc/view)
+- [NG+ outfits in NG by Renza](https://github.com/Shingentsu/Daybreak-NG--Outfit)
 
 ## Other games
 
