@@ -36,6 +36,7 @@ We define a difficulty scale for each item which reads like this:
   - [Kuro] https://gist.github.com/uyjulian/9a9d6395682dac55d113b503b1172009
 - Tables (stats, items, crafts, miscellaneous data)
   - [Sky] https://github.com/Kaplas80/TranslationFramework2
+  - [Sky3] https://github.com/akatatsu27/FalcomToolsCollection/releases/tag/T_MAGIC
   - [Crossbell] Unknown
   - [Cold Steel, Reverie] https://git.sr.ht/~quf/tocs/tree/trunk/tbled/README.md
   - [CS3, CS4, Reverie] [conflict resolver for mods distributed in DLC format](https://github.com/eArmada8/misc_kiseki/blob/main/dlc_tables/dlc_conflict_resolver.py)
