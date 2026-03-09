@@ -14,6 +14,10 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [InstantKiseki by Kyuuhachi](https://github.com/Kyuuhachi/InstantKiseki): Display text instantly instead of one character at a time
 - [Japanese Text by 누구야](https://modding.tistory.com/28)
 
+## Trails in the Sky the 1st (Gungho PC version)
+
+under construction
+
 ## Trails in the Sky SC (XSeed PC version)
 
 - [SoraVoice by ZhenjianYang](https://github.com/ZhenjianYang/SoraVoice): Adds Japanese voice acting from the Evolution version.
@@ -61,6 +65,7 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - [Difficulty mod by Bison](https://steamcommunity.com/app/748490/discussions/0/1696045708664951845/)
 - [Female Rean mod by StargazingSketcher](https://www.reddit.com/r/Falcom/comments/qh5mek/the_updated_shenanigans_of_female_rean_mod/)
 - [ed8 random music mod by eArmada8](https://github.com/eArmada8/misc_kiseki/tree/main/random_music)
+- [Black Records Unrestricted Hunt (B.R.U.H.)](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt): Access to certain NG+ content in NG
 
 ## Trails of Cold Steel III (NISA PC version)
 
@@ -95,6 +100,14 @@ If your mod is missing from this list, feel free to [file an issue](https://gith
 - Van's Grendel Skill by punk7890. Download via the modding discord.
 - [Daybreak 2 outfits for Fie by Kernviter](https://drive.google.com/file/d/1_coXU89MmnUMpTdL2uROWYraCIoyYQRc/view)
 - [NG+ outfits in NG by Renza](https://github.com/Shingentsu/Daybreak-NG--Outfit)
+
+## Trails through Daybreak II (NISA PC version)
+
+under construction
+
+## Trails beyond the Horizon (NISA PC version)
+
+under construction
 
 ## Other games
 
