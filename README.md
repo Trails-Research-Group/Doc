@@ -52,6 +52,7 @@ We define a difficulty scale for each item which reads like this:
   - [CS3, CS4, Reverie] https://github.com/eArmada8/ed8pkg2gltf
 - Visual effects
   - [Cold Steel, Reverie] https://github.com/uyjulian/ed8_eff_tools
+  - [CS1] https://github.com/TwnKey/ed8-eff-editor
 - Scenario scripts
   - [Sky, Crossbell] [Aureole](https://github.com/Kyuuhachi/Aureole)
   - [Sky] https://github.com/Ouroboros/EDDecompiler
